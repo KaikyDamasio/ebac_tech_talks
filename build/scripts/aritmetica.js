@@ -1,0 +1,1 @@
+console.log("Somar:",somar(40,10));
